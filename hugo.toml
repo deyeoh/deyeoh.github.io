@@ -1,0 +1,4 @@
+baseURL = 'https://deyeo.gitee.io'
+languageCode = 'en-us'
+title = '得也 BLOG'
+theme = 'blowfish'
